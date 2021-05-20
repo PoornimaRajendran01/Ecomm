@@ -1,0 +1,17 @@
+[{
+  "id": 1,
+  "name":"Customer A",
+  "theme":{
+  "backgroundcolor":"#a39391",
+  "categoryColor":"#e79686",
+   "color":"#ecd6c7"}
+},{
+      "id": 2,
+      "name":"Customer B",
+      "theme":{
+      "backgroundcolor":"#66a4ac",
+      "categoryColor":"#rgba(6,86,91,1)",
+       "color":"#c2dde4"
+  }
+    }
+] 
